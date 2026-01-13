@@ -1,6 +1,6 @@
 # Tonearm Base
 
-This section deals with assembling the tonearm base, in multiple configurations. Please refer to the individual assembly diagrams found in the /Assemblies/ folder.
+This section deals with assembling the tonearm base, in multiple configurations. Please refer to the individual assembly diagrams found in the `/Assemblies/` folder.
 
 ## Parts
 
@@ -32,6 +32,7 @@ All parts are printed using PLA, with the following settings:
 
 - CA Glue
 - Xacto Knife
+- M3 Hand Tap [optional]
 
 ## Assemblies
 
