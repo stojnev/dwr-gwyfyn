@@ -2,6 +2,14 @@
 
 "dŵr-gŵyfyn" ("gŵyfyn") is a complete turntable tonearm designed for additive manufacturing, geared towards the highest performance. The project provides a set of models, ready-to-print settings and instructions for printing and assembling a full tonearm.
 
+# Mounting
+
+This is an approximate dimension diagram to understand if the tonearm will fit your requirements and space.
+
+![Tonearm](https://raw.githubusercontent.com/stojnev/dwr-gwyfyn/refs/heads/main/Photographs/tonearm_side_dimensions.png)
+
+Please note that only height dimensions are provided since the tonearm can be printed in 9", 10" and 12" configurations.
+
 # License
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
