@@ -10,6 +10,19 @@ This is an approximate dimension diagram to understand if the tonearm will fit y
 
 Please note that only height dimensions are provided since the tonearm can be printed in 9", 10" and 12" configurations.
 
+# Order
+
+The assemblies can be printed all at once, but it is recommended to print and assemble them in order which facilitates (I think) an easier completion.
+
+The recommended order is as follows:
+
+1. Base;
+2. Pillar;
+3. Rest;
+4. Counterweight;
+5. Flexures;
+6. Tube.
+
 # License
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
