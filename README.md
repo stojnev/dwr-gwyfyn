@@ -21,7 +21,8 @@ The recommended order is as follows:
 3. Rest;
 4. Counterweight;
 5. Flexures;
-6. Tube.
+6. Tube;
+7. Alignment.
 
 # License
 
