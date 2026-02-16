@@ -21,6 +21,7 @@ There are three files, depending on chosen effective length, meaning 9", 10" or 
 - D - Spindle Distance Jig - Alignment Jig 9-.stl
 - E - Spindle Distance Jig - Alignment Jig 10-.stl
 - F - Spindle Distance Jig - Alignment Jig 12-.stl
+- G - Spindle Distance Jig - Alignment Jig Universal.stl
 
 ## Print Settings
 
@@ -44,7 +45,7 @@ All parts are printed using PLA, with the following settings:
 
 
 1. Print parts A, B, and C.
-2. Print one of D, E or F depending on preference.
+2. Print one of D, E, F or G depending on preference.
 3. Screw B on the threaded end of your chosen jig from the previous step, all the way down.
 4. Screw C on the middle portion in the threaded hole, but leave it loose.
 5. Place B over your turntable spindle.
